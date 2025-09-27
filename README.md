@@ -1,5 +1,15 @@
 # Clima-local-app
 Clima local demo repo
+
+clima-local-app/
+ ├── public/
+ │    ├── index.html
+ │    ├── style.css
+ │    └── app.js
+ ├── server.js
+ ├── package.json
+ └── README.md
+
 # 🌤️ Clima Local App con Amazon Q Developer
 
 Este proyecto fue desarrollado como parte del **Desafío 3 de AWS - Amazon Q Developer**.  
