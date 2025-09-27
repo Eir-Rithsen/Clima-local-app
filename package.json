@@ -1,0 +1,13 @@
+{
+  "name": "clima-local-app",
+  "version": "1.0.0",
+  "description": "App de clima local con geolocalización y OpenWeather API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.4.5"
+  }
+}
